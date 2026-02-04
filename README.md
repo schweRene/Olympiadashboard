@@ -1,5 +1,9 @@
 # ❄️ Olympia Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://olympiadashboard.streamlit.app/)
+
+Hier geht es zur **[Live-Demo meiner App](https://olympiadashboard.streamlit.app/)**.
+
 Dieses Projekt ist ein interaktiver Tracker für die Ergebnisse der Olympischen Spiele 1896 - 2022.
 
 ## 🚀 Funktionen
