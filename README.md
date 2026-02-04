@@ -1,4 +1,4 @@
-# ❄️ Olympia Dashboard Milano 2026
+# ❄️ Olympia Dashboard
 
 Dieses Projekt ist ein interaktiver Tracker für die Ergebnisse der Olympischen Spiele 1896 - 2022.
 
